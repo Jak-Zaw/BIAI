@@ -1,0 +1,4 @@
+mae - mid average error - wartość bezwzględna pomyłki - ile wynosi pomyłka przy estymacji ceny
+mse - podobne do mae tylko spotęgowana - uwypukla błędy
+
+dokładnośc modelu ustalamy dzięki mae - wartość błędu
